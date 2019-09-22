@@ -1,0 +1,6 @@
+Assembly-CSharp.dll
+VRCModLoader.dll
+VRCMenuUtils.dll
+UnityEngine.CoreModule.dll
+VRCUnlocked.dll
+UnityEngine.AnimationModule.dll
