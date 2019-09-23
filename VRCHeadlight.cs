@@ -14,7 +14,7 @@ using UnityEngine;
 
 namespace VRCHeadlight
 {
-    [VRCModInfo("VRCHeadlight", "0.1.0", "AtiLion")]
+    [VRCModInfo("VRCHeadlight", "0.1.1", "AtiLion")]
     internal class VRCHeadlight : VRCMod
     {
         void OnApplicationStart()
